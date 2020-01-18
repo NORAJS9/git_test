@@ -1,0 +1,1 @@
+This is Nora's first git project
